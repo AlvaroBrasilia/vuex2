@@ -1,6 +1,17 @@
 # vuex2
 
 > A Vue.js project
+Video tutorial = https://www.youtube.com/watch?v=BT1kKaZwPRs
+Learning:
+- Vuex Settings
+- Components
+- Reaction of data structure
+- Modules
+- States
+- Actions
+- Mutations
+- Helpers
+- Spread Operator
 
 ## Build Setup
 
