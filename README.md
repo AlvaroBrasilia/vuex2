@@ -2,7 +2,8 @@
 
 > A Vue.js project
 Video tutorial = https://www.youtube.com/watch?v=BT1kKaZwPRs
-Learning:
+
+## Learning:
 - Vuex Settings
 - Components
 - Reaction of data structure
